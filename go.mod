@@ -1,4 +1,4 @@
-module github.com/BrunoBMelo/handlerhttp
+module handlerhttp
 
 go 1.18
 
